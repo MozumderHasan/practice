@@ -1,3 +1,4 @@
+#Master Branch
 print("New practice of git")
 a=input("")
 a=int(a)
@@ -8,3 +9,6 @@ elif 21<a:
 
 for b in range(10):
     print(b)
+# Branch B
+for a in range(2):
+    print(a)
