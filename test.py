@@ -9,7 +9,11 @@ elif 21 < a:
 
 for b in range(10):
     print(b)
+# Branch B
+for a in range(2):
+    print(a)
 # BranchA update
 for c in range(10):
     for j in c:
         print ("a")
+
